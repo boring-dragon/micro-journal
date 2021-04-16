@@ -4,4 +4,4 @@
 
 Simple application I made to learn more about Laravel gates and policies.
 
-Still learning and this project is a working progress
+Still learning and project is on development
